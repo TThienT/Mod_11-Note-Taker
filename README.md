@@ -23,8 +23,11 @@ Heroku Link:
 
 ## Usage
 
+![Home Page](https://github.com/TThienT/Mod_11-Note-Taker/assets/125310070/2ca69e16-bda5-41ae-b3a6-bb58f7dd87e3)
 
+![Insert Note](https://github.com/TThienT/Mod_11-Note-Taker/assets/125310070/88aec237-f995-49f6-ab92-82e945eb718d)
 
+![Saved Note](https://github.com/TThienT/Mod_11-Note-Taker/assets/125310070/ffd85de9-b103-4360-8e2a-be77c51b310f)
 
 ## Credits
 
@@ -32,7 +35,7 @@ Heroku Link:
 
 ## Tests
 
-insert Insomnia screenshot
+![Insomnia](https://github.com/TThienT/Mod_11-Note-Taker/assets/125310070/3d73d6b0-b446-45e8-ac44-98127d7a6068)
 
 ## License
 This project is licensed under the [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0). Feel free to explore and adapt the code to suit your needs. See the license for more details.  
