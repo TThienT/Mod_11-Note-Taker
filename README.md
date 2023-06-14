@@ -17,9 +17,7 @@ Note Taker is an application designed for users to write, store, and delete note
 
 ## Installation
 
-GitHub Link:
-
-Heroku Link:
+Heroku Link: https://afternoon-harbor-51161.herokuapp.com/notes
 
 ## Usage
 
